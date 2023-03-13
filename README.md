@@ -1,2 +1,3 @@
 # milk-before-cereal
-just some stuff so as to test out github because yeah
+<h3> hi
+  <body> well dont expect anything here,, im just doing random things to figure out how stuff works so um yeah :) <body>
